@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: josh-reed-service
+  name: josh-service
   description: |
     My First Service.
   links:
@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - joshreed
+    - josh
 spec:
   type: service
   owner: caas
